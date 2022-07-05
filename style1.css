@@ -70,3 +70,7 @@ h2 {
 #baby {
     border-left: 7px solid rgb(44, 44, 248);
 }
+
+footer p {
+    text-align: center;
+}
